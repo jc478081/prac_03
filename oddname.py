@@ -9,3 +9,4 @@ while len(name)<=0:
 #peint oddname characters in the name
 print(name[::2])
 #print oddname characters in the name
+for i range (name,len(name),2)
